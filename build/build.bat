@@ -3,8 +3,6 @@
 cd %cd%
 cd ..
 
-copy gitattributes.txt .gitattributes
-
 copy gitattributes.txt openframeworks\.gitattributes
 copy openframeworks_gitignore.txt openframeworks\.gitignore
 copy gitattributes-lfs.txt openframeworks-lfs\.gitattributes

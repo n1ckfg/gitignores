@@ -11,8 +11,6 @@ DIR="$( cd -P "$( dirname "$SOURCE" )" && pwd )"
 cd $DIR
 cd ..
 
-cp gitattributes.txt .gitattributes
-
 cp gitattributes.txt openframeworks/.gitattributes
 cp openframeworks_gitignore.txt openframeworks/.gitignore
 cp gitattributes-lfs.txt openframeworks-lfs/.gitattributes
