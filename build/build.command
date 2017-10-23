@@ -31,3 +31,7 @@ cp processing_gitignore.txt processing/.gitignore
 cp gitattributes-lfs.txt processing-lfs/.gitattributes
 cp processing_gitignore.txt processing-lfs/.gitignore
 
+cp gitattributes.txt processingpy/.gitattributes
+cp processingpy_gitignore.txt processingpy/.gitignore
+cp gitattributes-lfs.txt processingpy-lfs/.gitattributes
+cp processingpy_gitignore.txt processingpy-lfs/.gitignore
