@@ -26,6 +26,11 @@ cp unity_gitignore.txt unity/.gitignore
 cp gitattributes-lfs.txt unity-lfs/.gitattributes
 cp unity_gitignore.txt unity-lfs/.gitignore
 
+cp gitattributes.txt unreal/.gitattributes
+cp unreal_gitignore.txt unreal/.gitignore
+cp gitattributes-lfs.txt unreal-lfs/.gitattributes
+cp unreal_gitignore.txt unreal-lfs/.gitignore
+
 cp gitattributes.txt processing/.gitattributes
 cp processing_gitignore.txt processing/.gitignore
 cp gitattributes-lfs.txt processing-lfs/.gitattributes

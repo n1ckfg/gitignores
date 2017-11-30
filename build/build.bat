@@ -18,6 +18,11 @@ copy unity_gitignore.txt unity\.gitignore
 copy gitattributes-lfs.txt unity-lfs\.gitattributes
 copy unity_gitignore.txt unity-lfs\.gitignore
 
+copy gitattributes.txt unreal\.gitattributes
+copy unreal_gitignore.txt unreal\.gitignore
+copy gitattributes-lfs.txt unreal-lfs\.gitattributes
+copy unreal_gitignore.txt unreal-lfs\.gitignore
+
 copy gitattributes.txt processing\.gitattributes
 copy processing_gitignore.txt processing\.gitignore
 copy gitattributes-lfs.txt processing-lfs\.gitattributes
