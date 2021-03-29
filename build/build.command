@@ -40,3 +40,6 @@ cp gitattributes.txt processingpy/.gitattributes
 cp processingpy_gitignore.txt processingpy/.gitignore
 cp gitattributes-LFS.txt processingpy-lfs/.gitattributes
 cp processingpy_gitignore.txt processingpy-lfs/.gitignore
+
+cp gitattributes.txt node/.gitattributes
+cp node_gitignore.txt node/.gitignore

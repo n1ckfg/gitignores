@@ -33,4 +33,7 @@ copy processingpy_gitignore.txt processingpy\.gitignore
 copy gitattributes-LFS.txt processingpy-lfs\.gitattributes
 copy processingpy_gitignore.txt processingpy-lfs\.gitignore
 
+copy gitattributes.txt node\.gitattributes
+copy node_gitignore.txt node\.gitignore
+
 @pause
